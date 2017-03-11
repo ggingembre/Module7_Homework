@@ -1,3 +1,5 @@
+package Task1_2;
+
 /**
  * Created by Guillaume Gingembre on 11/03/2017.
  */

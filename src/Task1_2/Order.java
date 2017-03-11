@@ -1,3 +1,5 @@
+package Task1_2;
+
 import java.util.Currency;
 
 /**
