@@ -21,6 +21,20 @@ public class User {
         this.balance = balance;
     }
 
+
+    // print method
+
+    @Override
+    public String toString() {
+        return "User{" +
+                "id=" + id +
+                ", firstName='" + firstName + '\'' +
+                ", lastName='" + lastName + '\'' +
+                ", city='" + city + '\'' +
+                ", balance=" + balance +
+                '}';
+    }
+
     // overriding equal method
 
     @Override
